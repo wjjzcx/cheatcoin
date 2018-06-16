@@ -4,9 +4,9 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "echo",
+            "label": "build",
             "type": "shell",
-            "command": "make -f /home/hugh/coding/cheatcoin/cheatcoin/Makefile",
+            "command": "cd /home/hugh/coding/cheatcoin/cheatcoin;make clean;make",
             "group": {
                 "kind": "build",
                 "isDefault": true
