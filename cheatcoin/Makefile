@@ -81,7 +81,7 @@ flags = -std=gnu11 -O3 -DDFSTOOLS -DCHEATCOIN -DNDEBUG -g -lpthread -lcrypto -lm
 
 all: cheatcoin
 
-cheatcoin: $(sources) $(headers) Makefile
+cheatcoin: # $(sources) $(headers) Makefile   #hughchiu
 	gcc -o cheatcoin $(sources) $(flags)
 
 clean:

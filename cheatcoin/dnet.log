@@ -1,0 +1,545 @@
+2018-06-16 14:19:18  dnet T11.231-T13.714.
+2018-06-16 14:19:18  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:19:18  Current connections:
+2018-06-16 14:19:18  Current streams:
+2018-06-16 14:19:18  dnet gc: start to collect
+2018-06-16 14:19:18  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:19:34  dnet T11.231-T13.714.
+2018-06-16 14:19:34  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:19:34  dnet gc: start to collect
+2018-06-16 14:19:34  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:19:34  Current connections:
+2018-06-16 14:19:34  Current streams:
+2018-06-16 14:20:46  dnet T11.231-T13.714.
+2018-06-16 14:20:46  dnet gc: start to collect
+2018-06-16 14:20:46  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:20:46  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:20:46  Current connections:
+2018-06-16 14:20:46  Current streams:
+2018-06-16 14:21:11  dnet T11.231-T13.714.
+2018-06-16 14:21:11  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:21:11  Current connections:
+2018-06-16 14:21:11  dnet gc: start to collect
+2018-06-16 14:21:11  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:21:11  Current streams:
+2018-06-16 14:21:41  dnet T11.231-T13.714.
+2018-06-16 14:21:41  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:21:41  Current connections:
+2018-06-16 14:21:41  dnet gc: start to collect
+2018-06-16 14:21:41  Current streams:
+2018-06-16 14:21:41  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:22:41  dnet gc: start to collect
+2018-06-16 14:22:41  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:23:16  dnet T11.231-T13.714.
+2018-06-16 14:23:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:23:16  Current connections:
+2018-06-16 14:23:16  dnet gc: start to collect
+2018-06-16 14:23:16  Current streams:
+2018-06-16 14:23:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:24:16  dnet gc: start to collect
+2018-06-16 14:24:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:25:16  dnet gc: start to collect
+2018-06-16 14:25:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:26:16  dnet gc: start to collect
+2018-06-16 14:26:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:27:16  dnet gc: start to collect
+2018-06-16 14:27:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:28:16  dnet gc: start to collect
+2018-06-16 14:28:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:28:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:28:16  Current connections:
+2018-06-16 14:28:16  Current streams:
+2018-06-16 14:29:16  dnet gc: start to collect
+2018-06-16 14:29:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:30:16  dnet gc: start to collect
+2018-06-16 14:30:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:31:16  dnet gc: start to collect
+2018-06-16 14:31:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:32:16  dnet gc: start to collect
+2018-06-16 14:32:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:33:16  dnet gc: start to collect
+2018-06-16 14:33:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:33:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:33:16  Current connections:
+2018-06-16 14:33:16  Current streams:
+2018-06-16 14:34:16  dnet gc: start to collect
+2018-06-16 14:34:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:35:16  dnet gc: start to collect
+2018-06-16 14:35:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:36:16  dnet gc: start to collect
+2018-06-16 14:36:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:37:16  dnet gc: start to collect
+2018-06-16 14:37:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:38:16  dnet gc: start to collect
+2018-06-16 14:38:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:38:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:38:16  Current connections:
+2018-06-16 14:38:16  Current streams:
+2018-06-16 14:39:16  dnet gc: start to collect
+2018-06-16 14:39:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:40:16  dnet gc: start to collect
+2018-06-16 14:40:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:41:16  dnet gc: start to collect
+2018-06-16 14:41:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:42:16  dnet gc: start to collect
+2018-06-16 14:42:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:43:16  dnet gc: start to collect
+2018-06-16 14:43:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:43:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:43:16  Current connections:
+2018-06-16 14:43:16  Current streams:
+2018-06-16 14:44:16  dnet gc: start to collect
+2018-06-16 14:44:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:45:16  dnet gc: start to collect
+2018-06-16 14:45:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:46:16  dnet gc: start to collect
+2018-06-16 14:46:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:47:16  dnet gc: start to collect
+2018-06-16 14:47:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:48:16  dnet gc: start to collect
+2018-06-16 14:48:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:48:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:48:16  Current connections:
+2018-06-16 14:48:16  Current streams:
+2018-06-16 14:49:16  dnet gc: start to collect
+2018-06-16 14:49:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:50:16  dnet gc: start to collect
+2018-06-16 14:50:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:51:16  dnet gc: start to collect
+2018-06-16 14:51:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:52:16  dnet gc: start to collect
+2018-06-16 14:52:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:53:16  dnet gc: start to collect
+2018-06-16 14:53:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:53:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:53:16  Current connections:
+2018-06-16 14:53:16  Current streams:
+2018-06-16 14:54:16  dnet gc: start to collect
+2018-06-16 14:54:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:55:16  dnet gc: start to collect
+2018-06-16 14:55:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:56:16  dnet gc: start to collect
+2018-06-16 14:56:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:57:16  dnet gc: start to collect
+2018-06-16 14:57:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:58:16  dnet gc: start to collect
+2018-06-16 14:58:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 14:58:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 14:58:16  Current connections:
+2018-06-16 14:58:16  Current streams:
+2018-06-16 14:59:16  dnet gc: start to collect
+2018-06-16 14:59:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:00:16  dnet gc: start to collect
+2018-06-16 15:00:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:01:16  dnet gc: start to collect
+2018-06-16 15:01:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:02:16  dnet gc: start to collect
+2018-06-16 15:02:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:03:16  dnet gc: start to collect
+2018-06-16 15:03:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:03:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:03:16  Current connections:
+2018-06-16 15:03:16  Current streams:
+2018-06-16 15:04:16  dnet gc: start to collect
+2018-06-16 15:04:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:05:16  dnet gc: start to collect
+2018-06-16 15:05:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:06:16  dnet gc: start to collect
+2018-06-16 15:06:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:07:16  dnet gc: start to collect
+2018-06-16 15:07:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:08:16  dnet gc: start to collect
+2018-06-16 15:08:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:08:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:08:16  Current connections:
+2018-06-16 15:08:16  Current streams:
+2018-06-16 15:09:16  dnet gc: start to collect
+2018-06-16 15:09:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:10:16  dnet gc: start to collect
+2018-06-16 15:10:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:11:16  dnet gc: start to collect
+2018-06-16 15:11:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:12:16  dnet gc: start to collect
+2018-06-16 15:12:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:13:16  dnet gc: start to collect
+2018-06-16 15:13:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:13:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:13:16  Current connections:
+2018-06-16 15:13:16  Current streams:
+2018-06-16 15:14:16  dnet gc: start to collect
+2018-06-16 15:14:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:15:16  dnet gc: start to collect
+2018-06-16 15:15:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:16:16  dnet gc: start to collect
+2018-06-16 15:16:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:17:16  dnet gc: start to collect
+2018-06-16 15:17:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:18:16  dnet gc: start to collect
+2018-06-16 15:18:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:18:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:18:16  Current connections:
+2018-06-16 15:18:16  Current streams:
+2018-06-16 15:19:16  dnet gc: start to collect
+2018-06-16 15:19:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:20:16  dnet gc: start to collect
+2018-06-16 15:20:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:21:16  dnet gc: start to collect
+2018-06-16 15:21:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:22:16  dnet gc: start to collect
+2018-06-16 15:22:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:23:16  dnet gc: start to collect
+2018-06-16 15:23:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:23:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:23:16  Current connections:
+2018-06-16 15:23:16  Current streams:
+2018-06-16 15:24:16  dnet gc: start to collect
+2018-06-16 15:24:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:25:16  dnet gc: start to collect
+2018-06-16 15:25:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:26:16  dnet gc: start to collect
+2018-06-16 15:26:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:27:16  dnet gc: start to collect
+2018-06-16 15:27:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:28:16  dnet gc: start to collect
+2018-06-16 15:28:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:28:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:28:16  Current connections:
+2018-06-16 15:28:16  Current streams:
+2018-06-16 15:29:16  dnet gc: start to collect
+2018-06-16 15:29:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:30:16  dnet gc: start to collect
+2018-06-16 15:30:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:31:16  dnet gc: start to collect
+2018-06-16 15:31:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:32:16  dnet gc: start to collect
+2018-06-16 15:32:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:33:16  dnet gc: start to collect
+2018-06-16 15:33:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:33:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:33:16  Current connections:
+2018-06-16 15:33:16  Current streams:
+2018-06-16 15:34:16  dnet gc: start to collect
+2018-06-16 15:34:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:35:16  dnet gc: start to collect
+2018-06-16 15:35:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:36:16  dnet gc: start to collect
+2018-06-16 15:36:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:37:16  dnet gc: start to collect
+2018-06-16 15:37:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:38:16  dnet gc: start to collect
+2018-06-16 15:38:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:38:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:38:16  Current connections:
+2018-06-16 15:38:16  Current streams:
+2018-06-16 15:39:16  dnet gc: start to collect
+2018-06-16 15:39:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:40:16  dnet gc: start to collect
+2018-06-16 15:40:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:41:16  dnet gc: start to collect
+2018-06-16 15:41:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:42:16  dnet gc: start to collect
+2018-06-16 15:42:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:43:16  dnet gc: start to collect
+2018-06-16 15:43:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:43:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:43:16  Current connections:
+2018-06-16 15:43:16  Current streams:
+2018-06-16 15:44:16  dnet gc: start to collect
+2018-06-16 15:44:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:45:16  dnet gc: start to collect
+2018-06-16 15:45:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:46:16  dnet gc: start to collect
+2018-06-16 15:46:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:47:16  dnet gc: start to collect
+2018-06-16 15:47:16  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:48:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:48:16  Current connections:
+2018-06-16 15:48:16  Current streams:
+2018-06-16 15:48:21  dnet gc: start to collect
+2018-06-16 15:48:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:49:21  dnet gc: start to collect
+2018-06-16 15:49:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:50:21  dnet gc: start to collect
+2018-06-16 15:50:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:51:21  dnet gc: start to collect
+2018-06-16 15:51:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:52:21  dnet gc: start to collect
+2018-06-16 15:52:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:53:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:53:16  Current connections:
+2018-06-16 15:53:16  Current streams:
+2018-06-16 15:53:21  dnet gc: start to collect
+2018-06-16 15:53:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:54:21  dnet gc: start to collect
+2018-06-16 15:54:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:55:21  dnet gc: start to collect
+2018-06-16 15:55:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:56:21  dnet gc: start to collect
+2018-06-16 15:56:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:57:21  dnet gc: start to collect
+2018-06-16 15:57:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:58:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 15:58:16  Current connections:
+2018-06-16 15:58:16  Current streams:
+2018-06-16 15:58:21  dnet gc: start to collect
+2018-06-16 15:58:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 15:59:21  dnet gc: start to collect
+2018-06-16 15:59:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:00:21  dnet gc: start to collect
+2018-06-16 16:00:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:01:21  dnet gc: start to collect
+2018-06-16 16:01:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:02:21  dnet gc: start to collect
+2018-06-16 16:02:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:03:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:03:16  Current connections:
+2018-06-16 16:03:16  Current streams:
+2018-06-16 16:03:21  dnet gc: start to collect
+2018-06-16 16:03:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:04:21  dnet gc: start to collect
+2018-06-16 16:04:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:05:21  dnet gc: start to collect
+2018-06-16 16:05:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:06:21  dnet gc: start to collect
+2018-06-16 16:06:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:07:21  dnet gc: start to collect
+2018-06-16 16:07:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:08:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:08:16  Current connections:
+2018-06-16 16:08:16  Current streams:
+2018-06-16 16:08:21  dnet gc: start to collect
+2018-06-16 16:08:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:09:21  dnet gc: start to collect
+2018-06-16 16:09:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:10:21  dnet gc: start to collect
+2018-06-16 16:10:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:11:21  dnet gc: start to collect
+2018-06-16 16:11:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:12:21  dnet gc: start to collect
+2018-06-16 16:12:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:13:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:13:16  Current connections:
+2018-06-16 16:13:16  Current streams:
+2018-06-16 16:13:21  dnet gc: start to collect
+2018-06-16 16:13:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:14:21  dnet gc: start to collect
+2018-06-16 16:14:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:15:21  dnet gc: start to collect
+2018-06-16 16:15:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:16:21  dnet gc: start to collect
+2018-06-16 16:16:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:17:21  dnet gc: start to collect
+2018-06-16 16:17:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:18:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:18:16  Current connections:
+2018-06-16 16:18:16  Current streams:
+2018-06-16 16:18:21  dnet gc: start to collect
+2018-06-16 16:18:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:19:21  dnet gc: start to collect
+2018-06-16 16:19:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:20:21  dnet gc: start to collect
+2018-06-16 16:20:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:21:21  dnet gc: start to collect
+2018-06-16 16:21:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:22:21  dnet gc: start to collect
+2018-06-16 16:22:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:23:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:23:16  Current connections:
+2018-06-16 16:23:16  Current streams:
+2018-06-16 16:23:21  dnet gc: start to collect
+2018-06-16 16:23:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:24:21  dnet gc: start to collect
+2018-06-16 16:24:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:25:21  dnet gc: start to collect
+2018-06-16 16:25:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:26:21  dnet gc: start to collect
+2018-06-16 16:26:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:27:21  dnet gc: start to collect
+2018-06-16 16:27:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:28:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:28:16  Current connections:
+2018-06-16 16:28:16  Current streams:
+2018-06-16 16:28:21  dnet gc: start to collect
+2018-06-16 16:28:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:29:21  dnet gc: start to collect
+2018-06-16 16:29:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:30:21  dnet gc: start to collect
+2018-06-16 16:30:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:31:21  dnet gc: start to collect
+2018-06-16 16:31:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:32:21  dnet gc: start to collect
+2018-06-16 16:32:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:33:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:33:16  Current connections:
+2018-06-16 16:33:16  Current streams:
+2018-06-16 16:33:21  dnet gc: start to collect
+2018-06-16 16:33:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:34:21  dnet gc: start to collect
+2018-06-16 16:34:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:35:21  dnet gc: start to collect
+2018-06-16 16:35:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:36:21  dnet gc: start to collect
+2018-06-16 16:36:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:37:21  dnet gc: start to collect
+2018-06-16 16:37:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:38:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:38:16  Current connections:
+2018-06-16 16:38:16  Current streams:
+2018-06-16 16:38:21  dnet gc: start to collect
+2018-06-16 16:38:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:39:21  dnet gc: start to collect
+2018-06-16 16:39:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:40:21  dnet gc: start to collect
+2018-06-16 16:40:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:41:21  dnet gc: start to collect
+2018-06-16 16:41:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:42:21  dnet gc: start to collect
+2018-06-16 16:42:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:43:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:43:16  Current connections:
+2018-06-16 16:43:16  Current streams:
+2018-06-16 16:43:21  dnet gc: start to collect
+2018-06-16 16:43:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:44:21  dnet gc: start to collect
+2018-06-16 16:44:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:45:21  dnet gc: start to collect
+2018-06-16 16:45:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:46:21  dnet gc: start to collect
+2018-06-16 16:46:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:47:21  dnet gc: start to collect
+2018-06-16 16:47:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:48:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:48:16  Current connections:
+2018-06-16 16:48:16  Current streams:
+2018-06-16 16:48:21  dnet gc: start to collect
+2018-06-16 16:48:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:49:21  dnet gc: start to collect
+2018-06-16 16:49:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:50:21  dnet gc: start to collect
+2018-06-16 16:50:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:51:21  dnet gc: start to collect
+2018-06-16 16:51:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:52:21  dnet gc: start to collect
+2018-06-16 16:52:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:53:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:53:16  Current connections:
+2018-06-16 16:53:16  Current streams:
+2018-06-16 16:53:21  dnet gc: start to collect
+2018-06-16 16:53:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:54:21  dnet gc: start to collect
+2018-06-16 16:54:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:55:21  dnet gc: start to collect
+2018-06-16 16:55:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:56:21  dnet gc: start to collect
+2018-06-16 16:56:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:57:21  dnet gc: start to collect
+2018-06-16 16:57:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:58:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 16:58:16  Current connections:
+2018-06-16 16:58:16  Current streams:
+2018-06-16 16:58:21  dnet gc: start to collect
+2018-06-16 16:58:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 16:59:21  dnet gc: start to collect
+2018-06-16 16:59:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:00:21  dnet gc: start to collect
+2018-06-16 17:00:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:01:21  dnet gc: start to collect
+2018-06-16 17:01:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:02:21  dnet gc: start to collect
+2018-06-16 17:02:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:03:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 17:03:16  Current connections:
+2018-06-16 17:03:16  Current streams:
+2018-06-16 17:03:21  dnet gc: start to collect
+2018-06-16 17:03:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:04:21  dnet gc: start to collect
+2018-06-16 17:04:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:05:21  dnet gc: start to collect
+2018-06-16 17:05:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:06:21  dnet gc: start to collect
+2018-06-16 17:06:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:07:21  dnet gc: start to collect
+2018-06-16 17:07:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:08:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 17:08:16  Current connections:
+2018-06-16 17:08:16  Current streams:
+2018-06-16 17:08:21  dnet gc: start to collect
+2018-06-16 17:08:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:09:21  dnet gc: start to collect
+2018-06-16 17:09:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:10:21  dnet gc: start to collect
+2018-06-16 17:10:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:11:21  dnet gc: start to collect
+2018-06-16 17:11:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:12:21  dnet gc: start to collect
+2018-06-16 17:12:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:13:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 17:13:16  Current connections:
+2018-06-16 17:13:16  Current streams:
+2018-06-16 17:13:21  dnet gc: start to collect
+2018-06-16 17:13:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:14:21  dnet gc: start to collect
+2018-06-16 17:14:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:15:21  dnet gc: start to collect
+2018-06-16 17:15:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:16:21  dnet gc: start to collect
+2018-06-16 17:16:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:17:21  dnet gc: start to collect
+2018-06-16 17:17:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:18:16  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 17:18:16  Current connections:
+2018-06-16 17:18:16  Current streams:
+2018-06-16 17:18:21  dnet gc: start to collect
+2018-06-16 17:18:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:19:21  dnet gc: start to collect
+2018-06-16 17:19:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:20:21  dnet gc: start to collect
+2018-06-16 17:20:21  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:24:22  dnet T11.231-T13.714.
+2018-06-16 17:24:22  dnet gc: start to collect
+2018-06-16 17:24:22  Active hosts:
+  0. EB76EE5A                   0 sec, T13.808, local     trust  127.0.0.1:0
+2018-06-16 17:24:22  dnet gc: 2 threads total, 0 collected
+2018-06-16 17:24:22  Current connections:
+2018-06-16 17:24:22  Current streams:
